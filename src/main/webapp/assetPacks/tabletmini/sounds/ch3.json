@@ -1,0 +1,21 @@
+{
+  "urls": [
+    "ch3.mp3",
+    "ch3.ogg",
+    "ch3.m4a"
+  ],
+  "sprite": {
+    "Discs stop spinning1_V3": [
+      0,
+      759.0702947845806
+    ],
+    "Pink Diamond lands - Glass Chink": [
+      1500,
+      1663.1292517006805
+    ],
+    "PlayButtonV2": [
+      4000,
+      1390.2947845804993
+    ]
+  }
+}

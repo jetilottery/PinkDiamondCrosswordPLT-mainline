@@ -1,0 +1,17 @@
+{
+  "urls": [
+    "ch4.mp3",
+    "ch4.ogg",
+    "ch4.m4a"
+  ],
+  "sprite": {
+    "DiamondFanfare": [
+      0,
+      1491.8820861678005
+    ],
+    "Your Letter Revealed": [
+      2500,
+      1079.7278911564624
+    ]
+  }
+}

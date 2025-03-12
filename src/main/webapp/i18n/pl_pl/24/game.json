@@ -1,0 +1,111 @@
+{
+  "version":"",
+  "Paytable": {
+    "RTPvalue": "{@minRTP}%",
+    "RTPrange": "{@minRTP}% do {@maxRTP}%",
+    "paybackTitle": "Oczekiwany zwrot",
+    "paybackBody": "Długoterminowy, oczekiwany teoretycznie zwrot tej gry wynosi {RTP}.",
+    "subheading": "Koszt losu: {ticketCost}",
+	"overallChances": "Łączna szansa wygrania nagrody w każdej grze to 1 na {odds}.",
+	"prizeLevel":"Stopień wygranej",
+	"prizeDivision": "Dział nagrody",
+     "prizeValue":"Wartość wygranej",
+	   "prizeRemaining": "Pozostała przybliżona liczba nagród",
+	  "oddsPerPlay": "Szansa na grę",
+    "description":"Opis",   
+    "descriptions": [
+      "Dopasowano 10 słów",
+      "Dopasowano 9 słów",
+      "Dopasowano 8 słów",
+      "Dopasowano 7 słów",
+      "Dopasowano 6 słów",
+      "Dopasowano 5 słów",
+      "Dopasowano 4 słowa",
+      "Dopasowano 3 słowa"
+    ]
+
+  },
+
+  "title": "Pink Diamond Crossword",
+  
+  "MenuCommand": {
+		"price": "Cena",
+		"stake": "Stawka",
+		"howToPlay": "Pomoc",
+		"paytable": "Tabela wygranych",
+		"close": "Zamknij",
+		"audio": {
+			"sound": "Dźwięk",
+			"on": "Wł.",
+			"off": "Wył."
+		}
+  },
+
+  "Game": {
+    "footer_balance": "SALDO",
+    "footer_ticketCost": "OPŁATA ZA LOS",
+    "ticketSelect_ticketCost": "OPŁATA ZA LOS",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "SPRÓBUJ "
+    },
+    "footer_win": {
+      "BUY": "WYGRANA",
+      "TRY": "WYGRANA DEMO"
+    },
+
+    "button_buy": {
+      "BUY": "PŁACĘ",
+      "TRY": "SPRÓBUJ"
+    },
+    "button_try": "SPRÓBUJ",
+    "button_continue": "KONTYNUUJ",
+    "button_moveToMoney": "GRAJ ZA PIENIĄDZE",
+    "button_autoPlay": "ODKRYJ WSZYSTKO",
+    "button_stop": "STOP",
+    "button_playAgain":{
+      "BUY": "GRAJ PONOWNIE",
+      "TRY": "SPRÓBUJ PONOWNIE"
+    },
+    "button_tryAgain": "SPRÓBUJ PONOWNIE",
+    "button_ok": "OK",
+    "button_exit": "WYJDŹ",
+    "button_close": "ZAMKNIJ",
+    
+    "error_button_exit": "WYJDŹ",
+    "error_title": "BŁĄD",
+    
+    "message_nonWin": "POWODZENIA\nNASTĘPNYM RAZEM",
+    "message_congratulations": {
+      "BUY": "GRATULACJE!",
+      "TRY": "DZIĘKUJEMY ZA GRĘ!"
+    },
+    "message_win": {
+      "BUY": "TWOJA WYGRANA TO",
+      "TRY": "MOŻNA BYŁO WYGRAĆ"
+    },
+    
+    "howToPlay": "ZASADY GRY",
+    "howToPlayContent": "Naciśnij przycisk Stop, aby zatrzymać obracające się koło i odkryć TWOJE LITERY.\n\nkliknij Twoje litery na planszy krzyżówki, aby je odznaczyć.\n\nJeśli po zatrzymaniu koła w jednej linii pojawia się trzy takie same litery, kliknij diament, aby odkryc bonusowa literę.\n\nZeby otrzymać wygrana, podświetl od 3 do 10 słów!",
+    
+    "yourLetters": "TWOJE LITERY",
+    "bonusLetters": "BONUSOWE LITERY",
+    "prizeTable": "Tabela wygranych",
+    "hints": "WSKAZÓWKI",
+    "autoMark": "AUTO UZUPEŁNIANIE",
+    "autoPlay": "ODKRYJ WSZYSTKO",
+
+    "prizeLabel1": "3 SŁOWA",
+    "prizeLabel2": "4 SŁOWA",
+    "prizeLabel3": "5 SŁÓW",
+    "prizeLabel4": "6 SŁÓW",
+    "prizeLabel5": "7 SŁÓW",
+    "prizeLabel6": "8 SŁÓW",
+    "prizeLabel7": "9 SŁÓW",
+    "prizeLabel8": "10 SŁÓW"
+  },
+  "Error": {
+    "errorCodePrefix": "Błąd: ",
+    "genericErrorText": "Wystąpił wewnętrzny błąd. WYJDŹ i uruchom grę ponownie."
+  }
+}

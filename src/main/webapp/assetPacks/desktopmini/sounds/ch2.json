@@ -1,0 +1,21 @@
+{
+  "urls": [
+    "ch2.mp3",
+    "ch2.ogg",
+    "ch2.m4a"
+  ],
+  "sprite": {
+    "GenericClick_1": [
+      0,
+      538.4126984126984
+    ],
+    "WordComplete_Note": [
+      1500,
+      1625.3968253968253
+    ],
+    "discs starting to spin_v6": [
+      4000,
+      1558.6394557823128
+    ]
+  }
+}

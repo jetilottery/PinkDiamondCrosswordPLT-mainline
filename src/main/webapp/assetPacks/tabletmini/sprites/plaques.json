@@ -1,0 +1,75 @@
+{"frames": {
+
+"plaque_landscape":
+{
+	"frame": {"x":1,"y":1,"w":1421,"h":629},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":1421,"h":629},
+	"sourceSize": {"w":1424,"h":632},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"plaque_portrait":
+{
+	"frame": {"x":218,"y":876,"w":799,"h":942},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":799,"h":942},
+	"sourceSize": {"w":799,"h":942},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"plaqueDiamonds_landscape":
+{
+	"frame": {"x":218,"y":632,"w":1373,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":372,"w":1373,"h":242},
+	"sourceSize": {"w":1424,"h":632},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"plaqueDiamonds_portrait":
+{
+	"frame": {"x":1245,"y":1209,"w":770,"h":295},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":631,"w":770,"h":295},
+	"sourceSize": {"w":799,"h":942},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"plaqueGlitter_landscape":
+{
+	"frame": {"x":1,"y":632,"w":1384,"h":215},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":329,"w":1384,"h":215},
+	"sourceSize": {"w":1424,"h":632},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"plaqueGlitter_portrait":
+{
+	"frame": {"x":1019,"y":1209,"w":799,"h":224},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":641,"w":799,"h":224},
+	"sourceSize": {"w":799,"h":942},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"sweep":
+{
+	"frame": {"x":1019,"y":876,"w":331,"h":549},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":331,"h":549},
+	"sourceSize": {"w":331,"h":549},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "plaques.png",
+	"format": "RGBA8888",
+	"size": {"w":1592,"h":2017},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:902cd11428f3fb21592e5f6a353d2e8c:9858e2a9303b3cf95606f11d1b938f47:cd2677c5ad46273415248fd26bf83a5b$"
+}
+}

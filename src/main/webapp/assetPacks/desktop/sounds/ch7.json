@@ -1,0 +1,21 @@
+{
+  "urls": [
+    "ch7.mp3",
+    "ch7.ogg",
+    "ch7.m4a"
+  ],
+  "sprite": {
+    "Discs stop spinning4_V3": [
+      0,
+      1028.8662131519275
+    ],
+    "PrizeAwarded - 05Words": [
+      2500,
+      2000.022675736961
+    ],
+    "PrizeAwarded - 10Words": [
+      6000,
+      2500.022675736961
+    ]
+  }
+}

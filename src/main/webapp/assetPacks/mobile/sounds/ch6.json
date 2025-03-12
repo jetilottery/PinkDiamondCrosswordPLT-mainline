@@ -1,0 +1,17 @@
+{
+  "urls": [
+    "ch6.mp3",
+    "ch6.ogg",
+    "ch6.m4a"
+  ],
+  "sprite": {
+    "PrizeAwarded - 04Words": [
+      0,
+      2000.0226757369614
+    ],
+    "PrizeAwarded - 09Words": [
+      3500,
+      2500.022675736961
+    ]
+  }
+}

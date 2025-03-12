@@ -1,0 +1,112 @@
+{
+  "version":"",
+  "Paytable": {
+    "RTPvalue": "{@minRTP}%",
+    "RTPrange": "{@minRTP}% do {@maxRTP}%",
+    "paybackTitle": "Oczekiwany zwrot",
+    "paybackBody": "Długoterminowy, oczekiwany teoretycznie zwrot tej gry wynosi {RTP}.",
+    "subheading": "Opłata za los: {ticketCost}",
+  "overallChances": "Łączna szansa wygrania nagrody dla danej stawki: 1 na {odds}.",
+  "prizeLevel": "Stopień wygranej",
+  "prizeDivision": "Stopień wygranej",
+  "prizeValue": "Wartość wygranej",
+  "prizeRemaining": "Pozostało do wygrania",
+  "oddsPerPlay": "Szansa na wygraną",
+    "description":"Opis",   
+    "descriptions": [
+      "Dopasowano 10 słów",
+      "Dopasowano 9 słów",
+      "Dopasowano 8 słów",
+      "Dopasowano 7 słów",
+      "Dopasowano 6 słów",
+      "Dopasowano 5 słów",
+      "Dopasowano 4 słowa",
+      "Dopasowano 3 słowa"
+    ]
+
+  },
+
+  "title": "KRZYŻÓWKI",
+  
+  "MenuCommand": {
+		"price": "Cena",
+		"stake": "Stawka",
+		"howToPlay": "Zasady gry",
+		"paytable": "Tabela wygranych",
+		"close": "X",
+		"audio": {
+			"sound": "Dźwięk",
+			"on": "Wł.",
+			"off": "Wył."
+		}
+  },
+
+  "Game": {
+    "footer_balance": "SALDO",
+    "footer_ticketCost": "OPŁATA ZA LOS",
+    "ticketSelect_ticketCost": "OPŁATA ZA LOS",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "DEMO "
+    },
+    "footer_win": {
+      "BUY": "WYGRANA",
+      "TRY": "WYGRANA DEMO"
+    },
+
+    "button_buy": {
+      "BUY": "PŁACĘ",
+      "TRY": "DEMO"
+    },
+    "button_try": "DEMO",
+    "button_retry":"PONÓW",
+    "button_continue": "KONTYNUUJ",
+    "button_moveToMoney": "GRAJ ZA PIENIĄDZE",
+    "button_autoPlay": "AUTO",
+    "button_stop": "STOP",
+    "button_playAgain":{
+      "BUY": "GRAJ PONOWNIE",
+      "TRY": "SPRÓBUJ PONOWNIE"
+    },
+    "button_tryAgain": "SPRÓBUJ PONOWNIE",
+    "button_ok": "OK",
+    "button_exit": "WYJDŹ",
+    "button_close": "OK",
+    
+    "error_button_exit": "WYJDŹ",
+    "error_title": "BŁĄD",
+    
+    "message_nonWin": "POWODZENIA\nNASTĘPNYM RAZEM",
+    "message_congratulations": {
+      "BUY": "GRATULACJE!",
+      "TRY": "DZIĘKUJEMY ZA GRĘ!"
+    },
+    "message_win": {
+      "BUY": "TWOJA WYGRANA TO",
+      "TRY": "MOŻNA BYŁO WYGRAĆ"
+    },
+    
+    "howToPlay": "ZASADY GRY",
+    "howToPlayContent": "Naciśnij przycisk Stop, aby zatrzymać obracające się koło i odkryć TWOJE LITERY.\n\nZaznacz litery na planszy krzyżówki, które są takie jak TWOJE LITERY.\n\nJeśli po zatrzymaniu koła obok liter pojawi się diament, kliknij na niego, aby odkryć bonusową literę.\n\nŻeby otrzymać wygraną, podświetl od 3 do 10 słów.",
+    
+    "yourLetters": "TWOJE LITERY",
+    "bonusLetters": "BONUSOWE LITERY",
+    "prizeTable": "TABELA WYGRANYCH",
+    "hints": "PODPOWIEDZI",
+    "autoMark": "AUTOUZUPEŁNIANIE",
+    "autoPlay": "AUTO",
+
+    "prizeLabel1": "3 SŁOWA",
+    "prizeLabel2": "4 SŁOWA",
+    "prizeLabel3": "5 SŁÓW",
+    "prizeLabel4": "6 SŁÓW",
+    "prizeLabel5": "7 SŁÓW",
+    "prizeLabel6": "8 SŁÓW",
+    "prizeLabel7": "9 SŁÓW",
+    "prizeLabel8": "10 SŁÓW"
+  },
+  "Error": {
+    "errorCodePrefix": "Błąd: ",
+    "genericErrorText": "Wystąpił wewnętrzny błąd. WYJDŹ i uruchom grę ponownie."
+  }
+}

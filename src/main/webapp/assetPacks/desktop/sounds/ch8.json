@@ -1,0 +1,17 @@
+{
+  "urls": [
+    "ch8.mp3",
+    "ch8.ogg",
+    "ch8.m4a"
+  ],
+  "sprite": {
+    "Letter highlighted - click n sparkle": [
+      0,
+      2426.485260770975
+    ],
+    "PrizeAwarded - 06Words": [
+      3500,
+      2000.022675736961
+    ]
+  }
+}
